@@ -12,7 +12,7 @@
   </ul>
 </div>
 
- <h4 align="left">🚀 Passionate full stack & blockchain developer, creating robust and scalable web applications and blockchain solutions. Skilled in both front-end and back-end technologies as well as web3 and blockchain integration, with a keen eye for user experience and performance optimization.</h4>
+🚀 Passionate full stack & blockchain developer, creating robust and scalable web applications and blockchain solutions. Skilled in both front-end and back-end technologies as well as web3 and blockchain integration, with a keen eye for user experience and performance optimization.
 
  **<h4 align="left">Skills</h4>**
 
